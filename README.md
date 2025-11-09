@@ -101,6 +101,7 @@ This project also includes a conceptual model in C++ (in the `cpp_oops_model` fo
     (Your project will open at `http://localhost:5173` or a similar port)
 
 ---
+<img width="1893" height="906" alt="Screenshot 2025-11-06 223740" src="https://github.com/user-attachments/assets/89115fd8-944e-4495-b5ff-d29698109e73" />
 
 ## 🎓 OOPS & C++ Design
 
